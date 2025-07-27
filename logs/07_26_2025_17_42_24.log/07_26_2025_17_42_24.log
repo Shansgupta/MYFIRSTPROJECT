@@ -1,0 +1,13 @@
+[2025-07-26 17:42:24,661] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-07-26 17:42:24,661] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-07-26 17:42:26,490] 25 root - INFO - Enter a data ingestion method or component
+[2025-07-26 17:42:26,497] 28 root - INFO - Read the dataset as Dataframe
+[2025-07-26 17:42:26,502] 31 root - INFO - Train test split initiated
+[2025-07-26 17:42:26,508] 35 root - INFO - Ingestion of data is completed 
+[2025-07-26 17:42:26,511] 75 root - INFO - Read train and the test data cpmpletely
+[2025-07-26 17:42:26,515] 76 root - INFO - Obtaining the preprocessing object
+[2025-07-26 17:42:26,515] 53 root - INFO - Numerical columns standard scaling completed
+[2025-07-26 17:42:26,515] 54 root - INFO - Categorical columns encoding completed
+[2025-07-26 17:42:26,516] 88 root - INFO - Applying preprocessing object on training dataframe and testing dataframe 
+[2025-07-26 17:42:26,531] 96 root - INFO - Saved preprocessing object
+[2025-07-26 17:42:26,534] 31 root - INFO - Split training and test input data

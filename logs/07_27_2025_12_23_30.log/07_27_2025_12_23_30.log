@@ -1,0 +1,21 @@
+[2025-07-27 12:23:30,927] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-07-27 12:23:30,929] 97 werkzeug - INFO -  * Debugger PIN: 912-789-832
+[2025-07-27 12:23:33,549] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:33] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-07-27 12:23:33,614] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:33] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-07-27 12:23:33,614] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:33] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-07-27 12:23:33,643] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:33] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-07-27 12:23:33,670] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:33] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-07-27 12:23:38,096] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:38] "GET / HTTP/1.1" 200 -
+[2025-07-27 12:23:40,400] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:40] "GET / HTTP/1.1" 200 -
+[2025-07-27 12:23:42,134] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:23:42] "GET /predictdata HTTP/1.1" 200 -
+[2025-07-27 12:24:11,388] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:24:11] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-07-27 12:24:11,428] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:24:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-07-27 12:24:11,435] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:24:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-07-27 12:24:11,509] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:24:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-07-27 12:24:11,538] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:24:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-07-27 12:25:18,421] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-07-27 12:25:18,422] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-07-27 12:25:18,422] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-07-27 12:25:18,423] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-07-27 12:25:18,425] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-07-27 12:25:18,426] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\pipeline\\predict_pipeline.py', reloading

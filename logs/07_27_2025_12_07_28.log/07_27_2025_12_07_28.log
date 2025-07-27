@@ -1,0 +1,6 @@
+[2025-07-27 12:07:28,479] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-07-27 12:07:28,482] 97 werkzeug - INFO -  * Debugger PIN: 912-789-832
+[2025-07-27 12:07:39,633] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\utils.py', reloading
+[2025-07-27 12:07:39,635] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\utils.py', reloading
+[2025-07-27 12:07:39,635] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\utils.py', reloading
+[2025-07-27 12:07:39,636] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\utils.py', reloading

@@ -1,0 +1,12 @@
+[2025-07-27 12:03:26,263] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-07-27 12:03:26,269] 97 werkzeug - INFO -  * Debugger PIN: 912-789-832
+[2025-07-27 12:04:25,181] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:04:25] "GET / HTTP/1.1" 200 -
+[2025-07-27 12:04:25,271] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:04:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-07-27 12:04:35,115] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:04:35] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2025-07-27 12:04:44,103] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:04:44] "GET / HTTP/1.1" 200 -
+[2025-07-27 12:05:35,419] 97 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 12:05:35] "GET /predictdata HTTP/1.1" 200 -
+[2025-07-27 12:07:26,992] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\components\\data_ingestion.py', reloading
+[2025-07-27 12:07:26,993] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\components\\data_ingestion.py', reloading
+[2025-07-27 12:07:26,994] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\components\\data_ingestion.py', reloading
+[2025-07-27 12:07:26,995] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\src\\components\\data_ingestion.py', reloading
+[2025-07-27 12:07:26,995] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\src\\components\\data_ingestion.py', reloading

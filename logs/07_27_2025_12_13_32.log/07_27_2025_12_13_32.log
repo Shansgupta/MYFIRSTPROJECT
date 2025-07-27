@@ -1,0 +1,8 @@
+[2025-07-27 12:13:32,946] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-07-27 12:13:32,947] 97 werkzeug - INFO -  * Debugger PIN: 912-789-832
+[2025-07-27 12:15:13,099] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\app.py', reloading
+[2025-07-27 12:15:13,100] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\app.py', reloading
+[2025-07-27 12:15:13,101] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\app.py', reloading
+[2025-07-27 12:15:13,102] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\app.py', reloading
+[2025-07-27 12:15:13,102] 97 werkzeug - INFO -  * Detected change in 'c:\\firstproject\\app.py', reloading
+[2025-07-27 12:15:13,103] 97 werkzeug - INFO -  * Detected change in 'C:\\firstproject\\app.py', reloading
