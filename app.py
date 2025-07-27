@@ -1,17 +1,13 @@
 from flask import Flask ,request,render_template
 import numpy as np 
 import pandas as pd 
+import sys
+import os
 import logging
 from sklearn.preprocessing import StandardScaler
 from src.pipeline.predict_pipeline import CustomData,PredictPipeline
-import traceback
-
-logging.basicConfig(level=logging.DEBUG)
-
-application = Flask(__name__)
-application.bebug = True
-app =  application
-
+from src.exception import CustomException
+app = Flask(__name__)
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -39,9 +35,8 @@ def predict_datapoint():
                return render_template ('home.html',results=results[0])
             
         except Exception as e:
+             raise CustomException(e,sys)
                 
-            print("❌ Exception occurred:")
-            traceback.print_exc()
-            return f"An internal error occurred: {str(e)}", 500
+            
 if __name__ == "__main__" :
-    app.run(host = "0.0.0.0")        
+    app.run(host = "0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)        
