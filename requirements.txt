@@ -4,4 +4,7 @@ seaborn
 flask
 dill
 gunicorn
+scikit-learn
+catboost
+xgboost
 # -e .
